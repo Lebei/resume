@@ -1,6 +1,6 @@
-个人简历
+## 个人简历
 
-个人信息
+## 个人信息
 
 姓名：卢蓓
 
@@ -8,28 +8,22 @@
  
 学校专业：南通大学杏林学院/自动化
 
-技术能力
+## 技术能力
 
 专注并且热爱web前端开发，熟练掌握JavaScript、HTMl、CSS以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
 
-掌握的JavaScript类库：jQuery
-
-掌握的JavaScript框架：Vuejs、Angular.js、React.js
-
-掌握的CSS预编译器：Less、Sass
-
-掌握项目构建工具：Webpack、Gulp
-
-掌握项目管理和协同工具的使用：SVN、Git
-
-掌握前端开发工具：Sublime、Webstorm、VS Code
-
-了解后端开发：Java
+* 掌握的JavaScript类库：jQuery
+* 掌握的JavaScript框架：Vuejs、Angular.js、React.js
+* 掌握的CSS预编译器：Less、Sass
+* 掌握项目构建工具：Webpack、Gulp
+* 掌握项目管理和协同工具的使用：SVN、Git
+* 掌握前端开发工具：Sublime、Webstorm、VS Code
+* 了解后端开发：Java
  
-##个人经历
+## 个人经历
 
-2014年毕业参加了4个月的Java培训
-培训完在苏州中能泰可上班，参与公司电商项目的前端开发
+* 2014年毕业参加了4个月的Java培训
+* 培训完在苏州中能泰可上班，参与公司电商项目的前端开发
 
 个人作品
 
