@@ -12,7 +12,7 @@
 专注并且热爱web前端开发，熟练掌握JavaScript、HTMl、CSS、ajax以及JavaScript框架来搭建web应用。了解原生JavaScript和JavaScript类库的使用。
 
 * 掌握的JavaScript类库：jQuery、easyui、bootstrap
-* 掌握的JavaScript框架：Vuejs、Angular.js、React.js
+* 掌握的JavaScript框架：Vue、Angular
 * 掌握的CSS预编译器：Less、Sass
 * 掌握项目构建工具：Webpack
 * 掌握项目管理和协同工具的使用：SVN、Git
